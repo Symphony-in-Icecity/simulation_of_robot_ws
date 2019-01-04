@@ -1,0 +1,8 @@
+prefix=/home/flsong/simulation_of_robot_ws/devel
+
+Name: urdf_demo
+Description: Description of urdf_demo
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/flsong/simulation_of_robot_ws/devel/lib 
+Requires: 
